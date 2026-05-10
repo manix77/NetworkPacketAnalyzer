@@ -1,0 +1,50 @@
+Protocol : TCP
+Source   : 192.168.100.10:53025
+Dest     : 142.250.202.195:443
+Valid    : YES
+---
+Protocol : TCP
+Source   : 142.250.202.195:443
+Dest     : 192.168.100.10:53025
+Valid    : YES
+---
+Protocol : TCP
+Source   : 192.168.100.10:53029
+Dest     : 20.42.65.94:443
+Valid    : YES
+---
+Protocol : TCP
+Source   : 20.42.65.94:443
+Dest     : 192.168.100.10:53029
+Valid    : YES
+---
+Protocol : TCP
+Source   : 192.168.100.10:53029
+Dest     : 20.42.65.94:443
+Valid    : YES
+---
+Protocol : TCP
+Source   : 20.42.65.94:443
+Dest     : 192.168.100.10:53029
+Valid    : YES
+---
+Protocol : TCP
+Source   : 192.168.100.10:53029
+Dest     : 20.42.65.94:443
+Valid    : YES
+---
+Protocol : TCP
+Source   : 20.42.65.94:443
+Dest     : 192.168.100.10:53029
+Valid    : YES
+---
+Protocol : TCP
+Source   : 192.168.100.10:53029
+Dest     : 20.42.65.94:443
+Valid    : YES
+---
+Protocol : TCP
+Source   : 192.168.100.10:53029
+Dest     : 20.42.65.94:443
+Valid    : YES
+---
